@@ -1,7 +1,5 @@
 # Emiliano Hansen Engineering Portfolio
 
-A lightweight static portfolio website for GitHub Pages, inspired by gallery-style engineering project portfolios such as Jaimie Krankel's research/project page.
-
 ## What is included
 
 - `index.html` — homepage with hero, research intro, project gallery, and about section.
